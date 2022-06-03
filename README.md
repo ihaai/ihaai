@@ -1,7 +1,7 @@
 -  Hi, I’m @ihaai 😳
 -  I love listening to phonk 🎵
--  I like learning new stuff that is computer related 💻
--  Discord => Lord iHay#1113 📫
+-  I like learning new computer related stuff 💻
+-  You can add me in Discord @Lord iHay#1113 📫
 
 <!---
 ihaai/ihaai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
